@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Freddy+Lopez" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Ingeniero de Telecomunicación | Programador Full-Stack</h3>
+<h3 align="center">Ingeniero de Telecomunicación | Programador Full-Stack | Investigador en IA</h3>
 
 <p align="center">
   <a href="mailto:freddylopez208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -70,10 +70,10 @@ Disfruto construyendo soluciones completas, desde APIs robustas con **Laravel** 
 
 ---
 
-### **Mis Estadísticas de GitHub**
+### **Contacto 📫**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyLopez208&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyLopez208&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+¡No dudes en contactarme! Estoy abierto a nuevas oportunidades, colaboraciones y me encantaría conectar contigo.
+
+<p align="left">
+  <a href="mailto:freddylopez208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
