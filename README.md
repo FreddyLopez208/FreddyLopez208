@@ -64,10 +64,9 @@ Disfruto construyendo soluciones completas, desde APIs robustas con **Laravel** 
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |---|---|---|---|
-| **Plataforma de Gestión de TFT (TFG)** | Plataforma full-stack para la gestión administrativa completa de Trabajos de Fin de Grado. Mi TFG, calificado con un 9,8. | `Laravel`, `Angular`, `PHP`, `TypeScript`, `MySQL` | [Ver Código](#) |
-| **Investigación en IA (IDeTIC)** | Implementación y análisis de Modelos de Difusión como Stable Diffusion, DDPM y DDIM. | `Python`, `Keras`, `TensorFlow`, `CUDA` | [Ver Código](#) |
+| **Plataforma de Gestión de TFT (TFG)** | Plataforma full-stack para la gestión administrativa de Trabajos de Fin de Grado. Mi TFG, calificado con un 9,8. | `Laravel`, `Angular`, `PHP`, `TypeScript`, `MySQL` | `Código Privado` |
+| **Investigación en IA (IDeTIC)** | Implementación y análisis de Modelos de Difusión como Stable Diffusion, DDPM y DDIM. | `Python`, `Keras`, `TensorFlow`, `CUDA` | `No disponible` |
 | **Web Full-Stack para YouTube** | Portal web dinámico con arquitectura Monorepo para un canal de YouTube, con frontend en Next.js y backend en Strapi. | `Next.js`, `React`, `Strapi`, `PostgreSQL` | [Ver Código](#) |
-
 ---
 
 ### **Mis Estadísticas de GitHub**
