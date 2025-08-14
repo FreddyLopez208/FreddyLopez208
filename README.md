@@ -76,4 +76,4 @@ Disfruto construyendo soluciones completas, desde APIs robustas con **Laravel** 
 
 <p align="left">
   <a href="mailto:freddylopez208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/freddy-alexander-lopez-guti%C3%A9rrez-53597a1a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
